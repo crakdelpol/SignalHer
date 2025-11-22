@@ -63,7 +63,7 @@ SignalHer
 
 Preventive Behavioral Reporting System
 
-1. Problem
+## **1. Problem**
 
 Many individuals, especially women, experience discomfort or harassment from others, both online and offline.
 When these episodes are not considered “serious” or do not constitute a crime, there are often no appropriate tools to report them.
@@ -77,7 +77,7 @@ Others have no way of knowing that someone has previously caused discomfort, and
 
 The absence of a structured system allows early warning signs to go unnoticed—yet those signals are exactly what could prevent more serious incidents.
 
-2. Project Objective
+## **2. Project Objective**
 
 Create a simple, secure, and shared platform that allows people to:
 
@@ -92,7 +92,7 @@ provide an indicator of user or profile reliability based on aggregated and veri
 The purpose of the project is preventive rather than punitive:
 detect weak signals before they turn into harmful events.
 
-3. Target Users
+## **3. Target Users**
 
 individuals using social networks, dating platforms, marketplaces, or online services;
 
@@ -102,7 +102,7 @@ anyone who wishes to check a user’s reliability before interacting;
 
 organizations and groups focused on personal safety.
 
-4. Why It’s Needed
+## **4. Why It’s Needed**
 
 Today’s digital landscape doesn’t offer tools that sit between:
 
@@ -112,7 +112,7 @@ formal complaint.
 
 This project introduces an intermediate level of protection: a place to record small but meaningful episodes, reducing the risk that they escalate into something more serious.
 
-5. Vision
+## **5. Vision**
 
 An ecosystem where everyone feels free to share early warning signs, contributing to collective safety.
 A system that promotes responsibility, transparency, and prevention—without stigmatizing or defaming.
