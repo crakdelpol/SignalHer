@@ -1,4 +1,4 @@
-[English](#english) | [Italiano](#italiano)
+[English](README_EN.md) | [Italiano](README_IT.md)
 
 
 # SignalHer 
