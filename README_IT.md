@@ -1,6 +1,6 @@
 # SignalHer 
 
-** Sistema di Segnalazione Comportamentale Preventiva**
+**Sistema di Segnalazione Comportamentale Preventiva**
 
 ## 1. Problema
 
