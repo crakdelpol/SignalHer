@@ -73,7 +73,7 @@ A system that promotes responsibility, transparency, and prevention without stig
 
 # SignalHer 
 
-** Sistema di Segnalazione Comportamentale Preventiva**
+**Sistema di Segnalazione Comportamentale Preventiva**
 
 ## 1. Problema
 
@@ -129,3 +129,63 @@ Un ecosistema in cui ogni persona può sentirsi libera di condividere segnali d�
 Un sistema che promuove responsabilità, trasparenza e prevenzione, senza stigmatizzare o diffamare.
 
 ---
+
+## English Version
+
+SignalHer
+
+Preventive Behavioral Reporting System
+
+## **1. Problem**
+
+Many individuals, especially women, experience discomfort or harassment from others, both online and offline.
+When these episodes are not considered “serious” or do not constitute a crime, there are often no appropriate tools to report them.
+This leads to three major issues:
+
+Victims are left alone and don’t know how to share their experience safely and discreetly.
+
+Problematic behaviors remain untracked, allowing room for future escalation.
+
+Others have no way of knowing that someone has previously caused discomfort, and may find themselves in the same situation.
+
+The absence of a structured system allows early warning signs to go unnoticed—yet those signals are exactly what could prevent more serious incidents.
+
+## **2. Project Objective**
+
+Create a simple, secure, and shared platform that allows people to:
+
+report harassing or inappropriate behaviors, even if not “serious”;
+
+do so confidentially, with privacy protections;
+
+contribute to a prevention network accessible to potential future victims;
+
+provide an indicator of user or profile reliability based on aggregated and verified reports.
+
+The purpose of the project is preventive rather than punitive:
+detect weak signals before they turn into harmful events.
+
+## **3. Target Users**
+
+individuals using social networks, dating platforms, marketplaces, or online services;
+
+women who want to protect themselves from ambiguous, insidious, or recurring behaviors;
+
+anyone who wishes to check a user’s reliability before interacting;
+
+organizations and groups focused on personal safety.
+
+## **4. Why It’s Needed**
+
+Today’s digital landscape doesn’t offer tools that sit between:
+
+no reporting,
+
+formal complaint.
+
+This project introduces an intermediate level of protection: a place to record small but meaningful episodes, reducing the risk that they escalate into something more serious.
+
+## **5. Vision**
+
+An ecosystem where everyone feels free to share early warning signs, contributing to collective safety.
+A system that promotes responsibility, transparency, and prevention—without stigmatizing or defaming.
