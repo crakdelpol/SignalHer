@@ -48,6 +48,19 @@ Il contesto digitale attuale non offre strumenti intermedi tra:
 
 Questo progetto introduce un livello intermedio di protezione: uno spazio dove registrare episodi piccoli ma significativi, riducendo il rischio che si trasformino in qualcosa di più serio.
 
+### Nota: il caso del National Sex Offender Public Website (USA)
+
+Negli Stati Uniti esiste il **National Sex Offender Public Website (NSOPW)** ([nsopw.gov](https://www.nsopw.gov)), un portale governativo che aggrega i registri dei singoli Stati USA relativi alle persone condannate per reati a sfondo sessuale, consultabile pubblicamente da chiunque per nome o area geografica. È stato istituito con il *Sex Offender Registration and Notification Act* (SORNA, 2006) ed è gestito dal Dipartimento di Giustizia americano.
+
+In Italia non esiste un equivalente pubblico, per diversi motivi:
+
+- **Funzione rieducativa della pena**: l'art. 27 della Costituzione stabilisce che le pene devono "tendere alla rieducazione del condannato"; un registro pubblico permanente è considerato in contrasto con il percorso di reinserimento sociale.
+- **Il casellario giudiziale non è pubblico**: in Italia i precedenti penali sono accessibili solo all'interessato, all'autorità giudiziaria e in casi specifici previsti dalla legge, non liberamente da chiunque.
+- **GDPR**: la diffusione pubblica di dati relativi a condanne penali è soggetta a limiti molto più stringenti rispetto agli USA (art. 10 del Regolamento UE 2016/679).
+- **Timori concreti**: stigmatizzazione permanente, vigilantismo, discriminazione nell'accesso a casa e lavoro, e dubbi sull'efficacia reale di questi registri nel ridurre la recidiva — temi ampiamente dibattuti anche negli stessi USA.
+
+È anche per questo che in Italia manca del tutto uno strumento "formale" equivalente. SignalHer non vuole sostituirlo, ma colmare un vuoto diverso e precedente: quello dei comportamenti non ancora penalmente rilevanti.
+
 ---
 
 ## 5. Visione
